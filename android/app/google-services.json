@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207963532836",
+    "project_id": "pocanalytics-62130",
+    "storage_bucket": "pocanalytics-62130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207963532836:android:56f0866378ab95b0ac32b1",
+        "android_client_info": {
+          "package_name": "com.example.poc_firebase_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnieY1NcpINxmLBUUdBriIUurPAgqcWSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
